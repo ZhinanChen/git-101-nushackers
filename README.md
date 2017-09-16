@@ -6,3 +6,5 @@ Sample project tbat I want to work on:
 
 1. Create a personal website
 2. Create a mobile app
+3. Create a gaming application
+4. Contribute to a e-commerce website
